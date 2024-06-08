@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Olá, meu nome é Eduardo!
 
  <div>
    <a href="https://github.com/thisiseduardo">
